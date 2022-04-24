@@ -16,3 +16,6 @@ Ultrasonic Radar is an Arduino based radar used to detect the stationary and mov
 - Since there are lot of invaders in many areas so ultrasonic radar can help us to track down those elements. 
 - It can also helps us to track down the predator animals moving from forest areas to village areas, thus keeping human life safe.
 - It can also helps us to count the frequency of movement of a certain object kept in an observational area.  
+
+## Circuit Diagram
+![Circuit Diagram](https://github.com/TauqeerAhmad5201/Ultrasonic-Radar/blob/main/ckt-diagram.png?raw=true)
