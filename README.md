@@ -32,6 +32,6 @@ Ultrasonic Radar is an Arduino based radar used to detect the stationary and mov
 
 ## Video to understand more
 
-https://user-images.githubusercontent.com/68806440/164986990-4e41a431-8a61-48bb-96bb-195a3d27518e.mp4
+https://user-images.githubusercontent.com/68806440/164987058-4c32dfa0-d80d-4ef4-b9ea-6575dd7c6921.mp4
 
 
